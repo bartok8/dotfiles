@@ -77,8 +77,8 @@ APT_REMV () {
 # APT_GET mozc-serer
 # APT_GET mozc-utils-gui
 # APT_GET w3m-el
-APT_GET migemo-el
-
+# APT_GET migemo-el
+APT_GET software-center
 
 
 

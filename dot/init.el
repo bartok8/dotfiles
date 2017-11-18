@@ -88,12 +88,6 @@
 ;; hline
 (global-hl-line-mode t)
 
-;; nlinum
-;; バッファの左側に行番号を表示する
-(global-nlinum-mode t)
-;; 5 桁分の表示領域を確保する
-(setq nlinum-format "%5d ")
-
 ;; key
 ;;;(global-set-key "\C-h" 'delete-backward-char)
 (keyboard-translate ?\C-h ?\C-?)
@@ -124,5 +118,11 @@
 
 ;;; line
 (setq-default line-spacing 5)
+
+;; nlinum
+;; バッファの左側に行番号を表示する
+(global-nlinum-mode t)
+;; 5 桁分の表示領域を確保する
+(setq nlinum-format "%5d ")
 
 ;;; ends here.
