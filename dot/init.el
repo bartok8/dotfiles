@@ -101,7 +101,7 @@
 (setq-default tab-width 4)
 
 ;; theme
-(load-theme 'deeper-blue t)
+;;;(load-theme 'deeper-blue t)
 
 ;; recentf
 (require 'recentf)
