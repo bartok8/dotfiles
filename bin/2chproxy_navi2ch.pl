@@ -65,7 +65,7 @@ my $PROXY_CONFIG  = {
   LISTEN_PORT => 8080,                                #listenするポート
   FORWARD_PROXY => '',                                #上位プロクシがあれば"http://host:port/"みたいに書く
   MAXIMUM_CONNECTIONS => 20,                          #最大同時接続数
-  USER_AGENT => 'Mozilla/5.0 (X11; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0',
+  USER_AGENT => 'Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0',
                                                       #UA偽装
   ENABLE_WEB_SCRAPING => 1,                           #datへのアクセスの際にWEBスクレイピングを有効にする
                                                       #datへの直アクセスが禁止されない限りは有効にしない方がいい
@@ -458,7 +458,8 @@ sub html2dat() {
   my $title = '';
   my @dat;
   my $res_del_tail_br = '<br><br>';                                     #末尾の<br> <br>を消す
-  my $res_del_a = '<a\shref=[^>]+>([^&][^<]*)</a>';                     #安価以外のリンクを消す
+  my $res_del_a = '<a(?:\sclass="image")?\shref=[^>]+>([^&][^<]*)</a>';
+  my $res_del_a2 = '(<a)(?:\s[_a-z][_a-z0-9]*="[^"]*")*(\shref="[^"]*")(?:\s[_a-z][_a-z0-9]*="[^"]*")*(>)';
   my $res_del_img = '<img\s*src="(?:https?:)?//img\.(\d+)ch\.net/([^"]*)"\s*/?>';  #BEの絵文字をsssp://に
   my $res_replace_oekaki2link = '<img\s*src="(?:https?:)?(//[^.]*\.8ch\.net/[^"]+)"[^>]*>';
   my $dat_del_span = '</?span[^>]*>';
@@ -478,6 +479,7 @@ sub html2dat() {
 
     $var{content} =~ s|$res_del_tail_br||g;
     $var{content} =~ s|$res_del_a|$1|g;
+    $var{content} =~ s|$res_del_a2|$1$2$3|g;
     if ($PROXY_CONFIG->{ENABLE_2CH_TO_nCH} == 2) {
       $var{content} =~ s|$res_del_img|sssp://img.5ch.net/$2|g;
     }
@@ -514,10 +516,7 @@ sub html2dat() {
         elsif ($PROXY_CONFIG->{ENABLE_2CH_TO_nCH} == 4) {
           $url =~ s|\d+ch\.net|2ch.net|;
         }
-        $replace_url_list{$url} = 1;
-      }
-      foreach my $url (keys(%replace_url_list)) {
-        $var{content} .= "<br> [Replace URL] $url ";
+        $var{content} .= "<br> [Replace URL] $url " unless $replace_url_list{$url}++;
       }
     }
 

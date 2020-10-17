@@ -20,6 +20,7 @@
 (package-initialize)
 
 ;; navi2ch
+(require 'navi2ch)
 (setq navi2ch-net-http-proxy "localhost:8080")
 (setq navi2ch-article-auto-range nil)
 
