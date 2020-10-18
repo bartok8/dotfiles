@@ -20,7 +20,7 @@
 (package-initialize)
 
 ;; navi2ch
-(require 'navi2ch)
+;;;(require 'navi2ch)
 (setq navi2ch-net-http-proxy "localhost:8080")
 (setq navi2ch-article-auto-range nil)
 
@@ -55,24 +55,23 @@
 ;; ;; フォントサイズ リセット
 ;; (global-set-key (kbd "M-0") '(lambda() (interactive) (text-scale-set 0)))
 
-;; (setq default-frame-alist
-;; ;;;      (append '((width                . 85)  ; フレーム幅
-;; ;;;                (height               . 38 ) ; フレーム高
-;;       (append '((width                . 100)  ; フレーム幅
-;;                 (height               . 50 ) ; フレーム高
-;;              ;; (left                 . 70 ) ; 配置左位置
-;;              ;; (top                  . 28 ) ; 配置上位置
-;;                 (line-spacing         . 0  ) ; 文字間隔
-;;                 (left-fringe          . 10 ) ; 左フリンジ幅
-;;                 (right-fringe         . 11 ) ; 右フリンジ幅
-;;                 (menu-bar-lines       . 1  ) ; メニューバー
-;;                 (tool-bar-lines       . 1  ) ; ツールバー
-;;                 (vertical-scroll-bars . 1  ) ; スクロールバー
-;;                 (scroll-bar-width     . 17 ) ; スクロールバー幅
-;;                 (cursor-type          . box) ; カーソル種別
-;;                 (alpha                . 100) ; 透明度
-;;                 ) default-frame-alist) )
-;; (setq initial-frame-alist default-frame-alist)
+(setq default-frame-alist
+      (append '((width                . 110)  ; フレーム幅
+                (height               . 65 ) ; フレーム高
+             ;; (left                 . 70 ) ; 配置左位置
+             ;; (top                  . 28 ) ; 配置上位置
+                (line-spacing         . 0  ) ; 文字間隔
+                (left-fringe          . 10 ) ; 左フリンジ幅
+                (right-fringe         . 11 ) ; 右フリンジ幅
+                (menu-bar-lines       . 1  ) ; メニューバー
+                (tool-bar-lines       . 1  ) ; ツールバー
+                (vertical-scroll-bars . 1  ) ; スクロールバー
+                (scroll-bar-width     . 17 ) ; スクロールバー幅
+                (cursor-type          . box) ; カーソル種別
+                (alpha                . 100) ; 透明度
+                ) default-frame-alist) )
+(setq initial-frame-alist default-frame-alist)
+(setq window-system-default-frame-alist default-frame-alist)
 
 ;; フレーム タイトル
 (setq frame-title-format
@@ -114,9 +113,10 @@
 (show-paren-mode 1)
 (setq show-paren-delay 0)
 (setq show-paren-style 'expression)
-(set-face-attribute 'show-paren-match-face nil
-                    :background nil :foreground nil
-					:weight 'extra-bold)
+;;;(set-face-attribute 'show-paren-match-face nil
+;;;                    :background nil :foreground nil
+;;;					:weight 'extra-bold)
+
 ;;;                    :underline "#ffff00" :weight 'extra-bold)
 
 ;;; line
