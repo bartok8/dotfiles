@@ -3,11 +3,13 @@
 #
 
 python nanaco_transiter.py `
-"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247588&cococd=01" `
-"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247572&cococd=01" `
-"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247558&cococd=01" `
-"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247583&cococd=01" `
-"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247565&cococd=01" `
+
+# 2020/11/4
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247588&cococd=01" `
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247572&cococd=01" `
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247558&cococd=01" `
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247583&cococd=01" `
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2010247565&cococd=01" `
 
 # 2020/3/4
 #"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2002184711&cococd=01" `
