@@ -61,7 +61,7 @@ lstURL = [
     "https://kuji.rakuten.co.jp/147369f4d8?scid=su_10831", # beauty
     "https://kuji.rakuten.co.jp/69334ccff1", # syaken
     "https://kuji.rakuten.co.jp/d9135bc12d", # toto
-    "https://kuji.rakuten.co.jp/c3f373f8d7?scid=su_8289", # deliverly
+    "https://kuji.rakuten.co.jp/643377c7a5?scid=su_8289", # deliverly
     "https://kuji.rakuten.co.jp/9ea32a8dfa", # calendar
     #"https://kuji.rakuten.co.jp/1b628755e1", # edy
     "https://kuji.rakuten.co.jp/7393386d27", # pay
@@ -69,6 +69,7 @@ lstURL = [
     "https://kuji.rakuten.co.jp/46211bf9dd", # tv
     "https://kuji.rakuten.co.jp/42136c5d7d", # books
     #"https://www.infoseek.co.jp/Luckylot", # infoseek
+    "https://kuji.rakuten.co.jp/6432148795", # recipi sp
     
 #    "https://kuji.rakuten.co.jp/ad********", # Rakuten ラッキーくじ
 #    "https://kuji.rakuten.co.jp/ff********", # 楽天ブックスくじ
