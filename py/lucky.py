@@ -70,6 +70,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/42136c5d7d", # books
     #"https://www.infoseek.co.jp/Luckylot", # infoseek
     "https://kuji.rakuten.co.jp/6432148795", # recipi sp
+
+    "https://kuji.rakuten.co.jp/b3c3746f95", # 2020/11/4 marathon   
     
 #    "https://kuji.rakuten.co.jp/ad********", # Rakuten ラッキーくじ
 #    "https://kuji.rakuten.co.jp/ff********", # 楽天ブックスくじ
