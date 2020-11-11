@@ -14,12 +14,12 @@ import chromedriver_binary
 
 userName = "547533-2115"
 # R1
-nanacoNo = "7600004149129083"
-securityCode = "4912995"
+# nanacoNo = "7600004149129083"
+# securityCode = "4912995"
 
 # R2
-#nanacoNo = "7600003722132431"
-#securityCode = "2213299"
+nanacoNo = "7600003722132431"
+securityCode = "2213299"
 
 def getGiftCodes(driver, url):
     driver.get(url.strip())
