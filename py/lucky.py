@@ -98,7 +98,7 @@ lstURL = [
     "https://kuji.rakuten.co.jp/d141c5441b", # books
     "https://kuji.rakuten.co.jp/ffc1c52299", # books
 
-    "https://kuji.rakuten.co.jp/b3c3746f95", # 2020/11/4 marathon   
+    #"https://kuji.rakuten.co.jp/b3c3746f95", # 2020/11/4 marathon   
     
 #    "https://kuji.rakuten.co.jp/ad********", # Rakuten ラッキーくじ
 #    "https://kuji.rakuten.co.jp/ff********", # 楽天ブックスくじ

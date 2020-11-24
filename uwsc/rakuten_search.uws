@@ -46,7 +46,8 @@ DIM 検索文字[] =_
 // 2回目以降の検索------------------------------------
 FOR 回数 = 0 TO 38
     IESETDATA( IE, 検索文字[回数], "qt" )
-    SLEEP( 0.5 )
+//    SLEEP( 0.5 )
+    SLEEP( 10.0 )
     IESETDATA( IE, TRUE, "", "id=searchBtn" )
     wait( )
 NEXT
@@ -55,8 +56,10 @@ NEXT
 PROCEDURE wait( )
     REPEAT
 //        SLEEP( 1.0 )
- SLEEP( 5.0 ) 
+// SLEEP( 5.0 )
+ SLEEP( 10.0 ) 
     UNTIL ( ! IE.BUSY ) AND ( IE.READYSTATE = 4 )
 //    SLEEP( 0.5 )
- SLEEP( 5.0 ) 
+// SLEEP( 5.0 )
+ SLEEP( 10.0 ) 
 FEND
