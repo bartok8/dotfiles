@@ -3,9 +3,11 @@
 #
 
 python nanaco_transiter.py `
+# 2020/11/25
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2011126246&cococd=01" `
 
 # 2020/11/24
-"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2011119038&cococd=01" `
+#"https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2011119038&cococd=01" `
 
 # 2020/11/10 #3
 # "https://www.fukuri.net/main/www/gift/login.jsp?jujuno=2011041952&cococd=01" `
