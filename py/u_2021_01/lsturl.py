@@ -21,14 +21,20 @@ lstURL = [
     "https://kuji.rakuten.co.jp/8212abcffe",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
-    #  【楽天ポイント活動部】ラッキーくじ（2020年12月通常版）
-    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202012.html",
+    #  【楽天ポイント活動部】ラッキーくじ（2021年1月通常版）
+    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202101.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  【福袋・初売り特集2021】新春おみくじ
     "https://kuji.rakuten.co.jp/64537be61f",
     #  【福袋・初売り特集2021】豪華賞品を当てよう！ラッキースロット
     "https://kuji.rakuten.co.jp/52137cf2c7",
+    #  お年玉くじ
+    "https://kuji.rakuten.co.jp/21037cdf84",
+    #  お買いものパンダぬいぐるみキャッチャー
+    "https://kuji.rakuten.co.jp/52437d86e8",
+    #  マラソンスロット PC＆SP版
+    "https://kuji.rakuten.co.jp/95737c358e",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
@@ -44,7 +50,7 @@ lstURL = [
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天デリバリー ラッキーくじ
-    "https://kuji.rakuten.co.jp/c9837b5ed1",
+    "https://kuji.rakuten.co.jp/50b37d4223",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ビューティラッキーくじ（20201223）
@@ -79,6 +85,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/a29321bc36",
     #  マネ活ラッキーくじ
     "https://kuji.rakuten.co.jp/ddc37d262b",
+    #  リワード特集ページ ラッキーくじ
+    "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
     #  楽天PointClubアプリラッキーくじ
