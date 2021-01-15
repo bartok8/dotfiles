@@ -7,6 +7,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
+    #  【2021年1月】特別ラッキーくじ（うまかねっと九州食材問屋発 タイアップ版）
+    "https://kuji.rakuten.co.jp/ef937de636",
     #  【楽天toto】毎日最大1000ポイントが当たる！楽天totoラッキーくじ
     "https://kuji.rakuten.co.jp/d9135bc12d",
     #  【楽天×宝くじ】毎日最大1000ポイントが当たる！楽天×宝くじラッキーくじ
@@ -25,16 +27,6 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202101.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  【福袋・初売り特集2021】新春おみくじ
-    "https://kuji.rakuten.co.jp/64537be61f",
-    #  【福袋・初売り特集2021】豪華賞品を当てよう！ラッキースロット
-    "https://kuji.rakuten.co.jp/52137cf2c7",
-    #  お年玉くじ
-    "https://kuji.rakuten.co.jp/21037cdf84",
-    #  お買いものパンダぬいぐるみキャッチャー
-    "https://kuji.rakuten.co.jp/52437d86e8",
-    #  マラソンスロット PC＆SP版
-    "https://kuji.rakuten.co.jp/95737c358e",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
