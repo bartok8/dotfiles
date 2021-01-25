@@ -31,8 +31,8 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202101.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  マラソンスロット＜事前告知版＞PC＆SP版
-    "https://kuji.rakuten.co.jp/13037c919e",
+    #  マラソンスロット PC＆SP版
+    "https://kuji.rakuten.co.jp/09a37cbfeb",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
@@ -83,8 +83,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/7a1321943c",
     #  スマートフォン限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/a29321bc36",
-    #  マネ活ラッキーくじ
-    "https://kuji.rakuten.co.jp/ddc37d262b",
     #  リワード特集ページ ラッキーくじ
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
@@ -99,6 +97,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/4592a41e4c",
     #  楽天リワード ラッキーくじ
     "https://kuji.rakuten.co.jp/e7a37ae390",
+    #  毎日チャンス　マネ活ラッキーくじ！楽天ポイントが当たる
+    "https://kuji.rakuten.co.jp/90e37ee184",
     #  毎日ラッキーくじ
     "https://kuji.rakuten.co.jp/27436a510a",
     #  ぐるなび「抽選くじ」！
