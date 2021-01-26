@@ -30,7 +30,7 @@ lstURL = [
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  マラソンスロット PC＆SP版
-    "https://kuji.rakuten.co.jp/09a37cbfeb",
+    "https://kuji.rakuten.co.jp/37137ccfbb",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
