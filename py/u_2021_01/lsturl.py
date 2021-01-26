@@ -9,8 +9,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/46211bf9dd",
     #  【2021年1月】特別ラッキーくじ（ecoloco（エコロコ）タイアップ版）
     "https://kuji.rakuten.co.jp/05537ddb65",
-    #  【2021年1月】特別ラッキーくじ（松阪牛ギフト専門店　松阪牛やまと タイアップ版）
-    "https://kuji.rakuten.co.jp/d0c37dfb12",
     #  【バレンタイン特集】楽天市場からのバレンタインプレゼント　PC版
     "https://kuji.rakuten.co.jp/02d37ec7fb",
     #  【楽天toto】毎日最大1000ポイントが当たる！楽天totoラッキーくじ
@@ -48,7 +46,7 @@ lstURL = [
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天デリバリー ラッキーくじ
-    "https://kuji.rakuten.co.jp/d3737d652f",
+    "https://kuji.rakuten.co.jp/2f237d7034",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ビューティラッキーくじ（20201223）
