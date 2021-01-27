@@ -9,6 +9,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/46211bf9dd",
     #  【2021年1月】特別ラッキーくじ（ecoloco（エコロコ）タイアップ版）
     "https://kuji.rakuten.co.jp/05537ddb65",
+    #  【2021年1月】特別ラッキーくじ（uricca（ウリッカ） by SHINY-MART タイアップ版）
+    "https://kuji.rakuten.co.jp/aa337e81ed",
     #  【バレンタイン特集】楽天市場からのバレンタインプレゼント　PC版
     "https://kuji.rakuten.co.jp/02d37ec7fb",
     #  【楽天toto】毎日最大1000ポイントが当たる！楽天totoラッキーくじ
@@ -29,8 +31,6 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202101.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  マラソンスロット PC＆SP版
-    "https://kuji.rakuten.co.jp/37137ccfbb",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
