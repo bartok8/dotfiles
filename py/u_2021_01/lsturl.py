@@ -7,8 +7,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【2021年1月】特別ラッキーくじ（ecoloco（エコロコ）タイアップ版）
-    "https://kuji.rakuten.co.jp/05537ddb65",
     #  【2021年1月】特別ラッキーくじ（uricca（ウリッカ） by SHINY-MART タイアップ版）
     "https://kuji.rakuten.co.jp/aa337e81ed",
     #  【バレンタイン特集】楽天市場からのバレンタインプレゼント　PC版
