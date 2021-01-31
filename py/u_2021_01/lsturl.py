@@ -9,6 +9,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/46211bf9dd",
     #  【2021年1月】特別ラッキーくじ（uricca（ウリッカ） by SHINY-MART タイアップ版）
     "https://kuji.rakuten.co.jp/aa337e81ed",
+    #  【2021年2月】特別ラッキーくじ（Risa Magli タイアップ版）
+    "https://kuji.rakuten.co.jp/aa737ef39f",
     #  【バレンタイン特集】楽天市場からのバレンタインプレゼント　PC版
     "https://kuji.rakuten.co.jp/02d37ec7fb",
     #  【楽天toto】毎日最大1000ポイントが当たる！楽天totoラッキーくじ
@@ -83,8 +85,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
-    #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/89c37bfd96",
     #  楽天PointClubアプリラッキーくじ
     "https://kuji.rakuten.co.jp/1473379bb1",
     #  楽天PointClubアプリラッキーくじ
@@ -97,8 +97,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/90e37ee184",
     #  毎日ラッキーくじ
     "https://kuji.rakuten.co.jp/27436a510a",
-    #  ぐるなび「抽選くじ」！
-    "https://r.gnavi.co.jp/lottery/",
     #  楽天PointClubアプリラッキーくじ
     "https://point.rakuten.co.jp/doc/lottery/lucky/",
     #  楽天ポイントモール DAILY CHANCEくじ
