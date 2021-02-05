@@ -11,9 +11,10 @@
 ;; package
 (require 'package)
 (add-to-list 'package-archives
-	     '("melpa" . "http://melpa.milkbox.net/packages/"))
-(add-to-list 'package-archives
-	     '("melpa-stable" . "https://stable.melpa.org/packages/"))
+;;;	     '("melpa" . "http://melpa.milkbox.net/packages/"))
+			 '("melpa" . "http://melpa.org/packages/"))
+;;;(add-to-list 'package-archives
+;;;	     '("melpa-stable" . "https://stable.melpa.org/packages/"))
 (add-to-list 'package-archives
 	     '("marmalade" . "http://marmalade-repo.org/packages/"))
 (fset 'package-desc-vers 'package--ac-desc-version)
@@ -54,6 +55,33 @@
 
 ;; ;; フォントサイズ リセット
 ;; (global-set-key (kbd "M-0") '(lambda() (interactive) (text-scale-set 0)))
+
+;; デフォルト フォント
+;; (set-face-attribute 'default nil :family "Migu 1M" :height 110)
+(set-face-font 'default "Migu 1M-11:antialias=standard")
+
+;; プロポーショナル フォント
+;; (set-face-attribute 'variable-pitch nil :family "Migu 1M" :height 110)
+(set-face-font 'variable-pitch "Migu 1M-11:antialias=standard")
+
+;; 等幅フォント
+;; (set-face-attribute 'fixed-pitch nil :family "Migu 1M" :height 110)
+(set-face-font 'fixed-pitch "Migu 1M-11:antialias=standard")
+
+;; ツールチップ表示フォント
+;; (set-face-attribute 'tooltip nil :family "Migu 1M" :height 90)
+(set-face-font 'tooltip "Migu 1M-9:antialias=standard")
+
+;;; fontset
+
+;; フォントサイズ調整
+(global-set-key (kbd "C-<wheel-up>")   '(lambda() (interactive) (text-scale-increase 1)))
+(global-set-key (kbd "C-=")            '(lambda() (interactive) (text-scale-increase 1)))
+(global-set-key (kbd "C-<wheel-down>") '(lambda() (interactive) (text-scale-decrease 1)))
+(global-set-key (kbd "C--")            '(lambda() (interactive) (text-scale-decrease 1)))
+
+;; フォントサイズ リセット
+(global-set-key (kbd "M-0") '(lambda() (interactive) (text-scale-set 0)))
 
 (setq default-frame-alist
       (append '((width                . 110)  ; フレーム幅
@@ -130,3 +158,15 @@
 (setq nlinum-format "%5d ")
 
 ;;; ends here.
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages (quote (wanderlust))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )

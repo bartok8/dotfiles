@@ -1,5 +1,5 @@
 %/
-%inbox  "Inbox"
+%inbox/  "Inbox"
 %Sent   "Sent"
 %Trash  "Trash"
 %Junk   "Junk"

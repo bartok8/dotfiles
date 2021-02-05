@@ -7,8 +7,11 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
+<<<<<<< HEAD
     #  【2021年2月】特別ラッキーくじ（Risa Magli タイアップ版）
     "https://kuji.rakuten.co.jp/aa737ef39f",
+=======
+>>>>>>> 53deba8b5ea3d18b075a599e128f1a0338f5a497
     #  【2021年2月】特別ラッキーくじ（なまら　まーけっと タイアップ版）
     "https://kuji.rakuten.co.jp/5a337ed12d",
     #  【バレンタイン特集】楽天市場からのバレンタインプレゼント　PC版
