@@ -7,8 +7,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【2021年2月】特別ラッキーくじ（なまら　まーけっと タイアップ版）
-    "https://kuji.rakuten.co.jp/5a337ed12d",
     #  【バレンタイン特集】楽天市場からのバレンタインプレゼント　PC版
     "https://kuji.rakuten.co.jp/02d37ec7fb",
     #  【楽天toto】毎日最大1000ポイントが当たる！楽天totoラッキーくじ
