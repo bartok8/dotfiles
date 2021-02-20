@@ -5,6 +5,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/889373540e",
     #  LINE限定 毎日引けるくじ
     "https://kuji.rakuten.co.jp/842378b442",
+    #  Rakuten Brand Dayくじ
+    "https://kuji.rakuten.co.jp/c6437e42a1",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
     #  【ホワイトデー特集2021】スロットを回して豪華賞品を当てよう！
@@ -23,6 +25,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/8212abcffe",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
+    #  【楽天ポイントモール】メルマガ限定！ラッキーくじ（2021年2月）
+    "https://pointmall.rakuten.co.jp/special/cp/210219_kuji/",
     #  【楽天ポイント活動部】ラッキーくじ（2021年2月通常版）
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202102.html",
     #  【楽天レシピ】ラッキーくじ
