@@ -9,10 +9,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/46211bf9dd",
     #  【ホワイトデー特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/6dd37e7ac7",
-    #  【楽天toto】毎日最大1000ポイントが当たる！楽天totoラッキーくじ
-    "https://kuji.rakuten.co.jp/d9135bc12d",
-    #  【楽天×宝くじ】毎日最大1000ポイントが当たる！楽天×宝くじラッキーくじ
-    "https://kuji.rakuten.co.jp/66435bd268",
     #  【楽天くじ広場】ラッキーくじ
     "https://kuji.rakuten.co.jp/4ad36145c2",
     #  【楽天カード】ここ掘れワンワン勝者限定くじ
@@ -77,8 +73,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
-    #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/0f637e55e8",
     #  楽天PointClubアプリラッキーくじ
     "https://kuji.rakuten.co.jp/1473379bb1",
     #  楽天PointClubアプリラッキーくじ
