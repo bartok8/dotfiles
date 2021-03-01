@@ -7,8 +7,16 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
+    #  【2021年3月】特別ラッキーくじ（山陰海の幸　いそはま本舗 タイアップ版）
+    "https://kuji.rakuten.co.jp/52a380eb30",
+    #  【2021年3月】特別ラッキーくじ（港ダイニングしおそう タイアップ版）
+    "https://kuji.rakuten.co.jp/615380bd45",
     #  【ホワイトデー特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/6dd37e7ac7",
+    #  【楽天toto】楽天totoラッキーくじ
+    "https://kuji.rakuten.co.jp/bc23814a75",
+    #  【楽天×宝くじ】最大1000ポイントが当たる！楽天×宝くじラッキーくじ
+    "https://kuji.rakuten.co.jp/8c538152dd",
     #  【楽天くじ広場】ラッキーくじ
     "https://kuji.rakuten.co.jp/4ad36145c2",
     #  【楽天カード】ここ掘れワンワン勝者限定くじ
@@ -19,8 +27,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/8212abcffe",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
-    #  【楽天ポイント活動部】ラッキーくじ（2021年2月通常版）
-    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202102.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  楽天Car車検 ラッキーくじ
@@ -33,6 +39,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/9ea32a8dfa",
     #  楽天カードラッキーくじ
     "https://www.rakuten-card.co.jp/e-navi/members/other-services/lucky-lot/redirect.xhtml",
+    #  楽天スーパーSALE スロット＜事前告知版＞PC＆SP版
+    "https://kuji.rakuten.co.jp/4e23801c73",
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天デリバリー ラッキーくじ
@@ -73,6 +81,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
+    #  楽天PointClubSPWebラッキーくじ
+    "https://kuji.rakuten.co.jp/20b380db54",
     #  楽天PointClubアプリラッキーくじ
     "https://kuji.rakuten.co.jp/1473379bb1",
     #  楽天PointClubアプリラッキーくじ
