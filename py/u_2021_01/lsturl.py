@@ -27,6 +27,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/8212abcffe",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
+    #  【楽天ポイント活動部】ラッキーくじ（2021年3月～5月通常版）
+    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202103.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  楽天Car車検 ラッキーくじ
