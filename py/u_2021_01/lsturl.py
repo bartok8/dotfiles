@@ -7,8 +7,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【2021年3月】特別ラッキーくじ（港ダイニングしおそう タイアップ版）
-    "https://kuji.rakuten.co.jp/615380bd45",
     #  【ホワイトデー特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/6dd37e7ac7",
     #  【新生活特集2021】スロットを回して豪華賞品を当てよう！
@@ -70,7 +68,7 @@ lstURL = [
     #  【楽天くじ広場】ラッキーくじ
     "https://kuji.rakuten.co.jp/6233615e79",
     #  【楽天カード】スマホここ掘れワンワン勝者限定くじ
-    "https://kuji.rakuten.co.jp/19c37c6752",
+    "https://kuji.rakuten.co.jp/a5a3826d2f",
     #  【楽天カード】スマホさかな勝者限定くじ
     "https://kuji.rakuten.co.jp/a1037d1f17",
     #  【楽天カード】スマホじゃんけん勝者限定くじ
