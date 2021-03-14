@@ -20,7 +20,7 @@ lstURL = [
     #  【楽天カード】ここ掘れワンワン勝者限定くじ
     "https://www.rakuten-card.co.jp/point/pointsave/takara-sagashi/redirect/",
     #  【楽天カード】さかな勝者限定くじ
-    "https://kuji.rakuten.co.jp/fae37d0d91",
+    "https://www.rakuten-card.co.jp/point/pointsave/sakana-quiz/redirect/",
     #  【楽天カード】じゃんけん勝者限定くじ
     "https://kuji.rakuten.co.jp/8212abcffe",
     #  【楽天ブックス】facebookラッキーくじ
@@ -29,8 +29,6 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202103.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  ホワイトデーくじ
-    "https://kuji.rakuten.co.jp/55f3821862",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
