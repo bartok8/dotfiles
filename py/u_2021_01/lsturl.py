@@ -7,8 +7,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【ホワイトデー特集2021】スロットを回して豪華賞品を当てよう！
-    "https://kuji.rakuten.co.jp/6dd37e7ac7",
     #  【新生活特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/22b381fa8b",
     #  【楽天toto】楽天totoラッキーくじ
@@ -42,7 +40,7 @@ lstURL = [
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天デリバリー ラッキーくじ
-    "https://kuji.rakuten.co.jp/9a0381a85d",
+    "https://kuji.rakuten.co.jp/4dd381bac9",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ビューティラッキーくじ（20201223）
