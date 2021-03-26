@@ -75,6 +75,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/7a1321943c",
     #  スマートフォン限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/a29321bc36",
+    #  マネ活ラッキーくじ
+    "https://kuji.rakuten.co.jp/1873835ea3",
     #  リワード特集ページ ラッキーくじ
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
@@ -89,8 +91,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/4592a41e4c",
     #  楽天リワード ラッキーくじ
     "https://kuji.rakuten.co.jp/e7a37ae390",
-    #  毎日チャンス　マネ活ラッキーくじ！楽天ポイントが当たる
-    "https://kuji.rakuten.co.jp/2d1381326a",
     #  毎日ラッキーくじ
     "https://kuji.rakuten.co.jp/27436a510a",
     #  楽天PointClubアプリラッキーくじ
