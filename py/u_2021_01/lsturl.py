@@ -33,8 +33,10 @@ lstURL = [
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  【母の日特集2021】スロット回して豪華賞品を当てよう！_PC版
     "https://kuji.rakuten.co.jp/b4c3823ba7",
+    #  お買いものパンダぬいぐるみキャッチャー
+    "https://kuji.rakuten.co.jp/8733849d7a",
     #  マラソンスロット PC＆SP版
-    "https://kuji.rakuten.co.jp/66938288a3",
+    "https://kuji.rakuten.co.jp/ec438298bf",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
