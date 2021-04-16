@@ -4,7 +4,8 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 import time
-import chromedriver_binary
+#import chromedriver_binary
+from webdriver_manager.chrome import ChromeDriverManager
 from rakuten_credentials import *
 from u_2021_01.lsturl import *
 
@@ -44,7 +45,8 @@ def openRakutenLuckyKuji2(pDriver, pURL):
 #webdriverpath = "/Chrome webdriverへのパス/" # Webdriver Path
 options =  webdriver.ChromeOptions()
 #driver = webdriver.Chrome(webdriverpath)
-driver = webdriver.Chrome()
+#driver = webdriver.Chrome()
+driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.set_window_size(1300,1040)
 
 lstURLenavi = [
