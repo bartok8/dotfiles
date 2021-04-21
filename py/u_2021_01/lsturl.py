@@ -7,8 +7,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【2021年4月】特別ラッキーくじ（オシャレウォーカー　osharewalker タイアップ版）
-    "https://kuji.rakuten.co.jp/1263842b27",
     #  【新生活特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/22b381fa8b",
     #  【楽天toto】楽天totoラッキーくじ
@@ -33,6 +31,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  【母の日特集2021】スロット回して豪華賞品を当てよう！_PC版
     "https://kuji.rakuten.co.jp/b4c3823ba7",
+    #  マラソンスロット＜事前告知版＞PC＆SP版
+    "https://kuji.rakuten.co.jp/039383e8bb",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
