@@ -7,6 +7,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
+    #  【2021年4月】特別ラッキーくじ（Pierrot【ピエロ】タイアップ版）
+    "https://kuji.rakuten.co.jp/6b3384a31f",
     #  【新生活特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/22b381fa8b",
     #  【楽天toto】楽天totoラッキーくじ
@@ -25,14 +27,20 @@ lstURL = [
     "https://kuji.rakuten.co.jp/71f38444b5",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
+    #  【楽天ポイントモール】メルマガ限定！ラッキーくじ（2021年4月）
+    "https://pointmall.rakuten.co.jp/special/cp/210422_kuji/",
+    #  【楽天ポイントモール】ラッキーくじ（2021年4月）
+    "https://kuji.rakuten.co.jp/52a3858c85",
     #  【楽天ポイント活動部】ラッキーくじ（2021年3月～5月通常版）
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202103.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  【母の日特集2021】スロット回して豪華賞品を当てよう！_PC版
     "https://kuji.rakuten.co.jp/b4c3823ba7",
-    #  マラソンスロット＜事前告知版＞PC＆SP版
-    "https://kuji.rakuten.co.jp/039383e8bb",
+    #  お買いものパンダトランプくじ
+    "https://kuji.rakuten.co.jp/92938553e6",
+    #  マラソンスロット PC＆SP版
+    "https://kuji.rakuten.co.jp/ace3840414",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
@@ -84,7 +92,7 @@ lstURL = [
     #  スマートフォン限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/33d38332c2",
     #  マネ活ラッキーくじ
-    "https://kuji.rakuten.co.jp/1873835ea3",
+    "https://kuji.rakuten.co.jp/cf33859a2d",
     #  リワード特集ページ ラッキーくじ
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
