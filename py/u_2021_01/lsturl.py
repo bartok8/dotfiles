@@ -29,10 +29,12 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202103.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  【母の日特集2021】スロット回して豪華賞品を当てよう！_PC版
-    "https://kuji.rakuten.co.jp/b4c3823ba7",
-    #  マラソンスロット＜事前告知版＞PC＆SP版
-    "https://kuji.rakuten.co.jp/afe384e631",
+    #  【父の日特集】スロットを回して豪華賞品を当てよう！
+    "https://kuji.rakuten.co.jp/6063867687",
+    #  お買いものパンダぬいぐるみキャッチャー
+    "https://kuji.rakuten.co.jp/fcd38620d7",
+    #  マラソンスロット PC＆SP版
+    "https://kuji.rakuten.co.jp/a993850b9f",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天×ぐるなび ラッキーくじ
@@ -47,8 +49,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/6c238469a1",
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
-    #  楽天デリバリー ラッキーくじ
-    "https://kuji.rakuten.co.jp/6ef383d3e5",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ビューティラッキーくじ（20201223）
@@ -77,8 +77,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/b312abddc5",
     #  【楽天カード】スマホじゃんけん勝者限定くじ
     "https://kuji.rakuten.co.jp/3113843d93",
-    #  【母の日特集2021】スロット回して豪華賞品を当てよう！_スマホ版
-    "https://kuji.rakuten.co.jp/43f38248ed",
     #  アプリ限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ
