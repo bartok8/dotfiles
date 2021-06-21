@@ -7,6 +7,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
+    #  【2021年6月】特別ラッキーくじ（SK-II 公式ショップ楽天市場店 タイアップ版）
+    "https://kuji.rakuten.co.jp/3c9388e924",
     #  【楽天toto】楽天totoラッキーくじ
     "https://kuji.rakuten.co.jp/bc23814a75",
     #  【楽天×宝くじ】最大1000ポイントが当たる！楽天×宝くじラッキーくじ
@@ -27,10 +29,10 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202106.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  【父の日特集】スロットを回して豪華賞品を当てよう！
-    "https://kuji.rakuten.co.jp/6063867687",
     #  ポイナビご愛顧感謝くじ
     "https://kuji.rakuten.co.jp/494387e1e2",
+    #  マラソンスロット＜事前告知版＞PC＆SP版
+    "https://kuji.rakuten.co.jp/4a0387651e",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天Edyラッキーくじ
