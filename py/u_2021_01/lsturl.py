@@ -18,7 +18,7 @@ lstURL = [
     #  【楽天カード】ここ掘れワンワン勝者限定くじ
     "https://kuji.rakuten.co.jp/ccb388db59",
     #  【楽天カード】さかな勝者限定くじ
-    "https://kuji.rakuten.co.jp/5103830522",
+    "https://kuji.rakuten.co.jp/62338915a0",
     #  【楽天カード】じゃんけん勝者限定くじ
     "https://kuji.rakuten.co.jp/8212abcffe",
     #  【楽天カード】じゃんけん勝者限定くじ
@@ -31,8 +31,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  ポイナビご愛顧感謝くじ
     "https://kuji.rakuten.co.jp/494387e1e2",
-    #  マラソンスロット＜事前告知版＞PC＆SP版
-    "https://kuji.rakuten.co.jp/4a0387651e",
+    #  マラソンスロット PC＆SP版
+    "https://kuji.rakuten.co.jp/53e3877333",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天Edyラッキーくじ
@@ -50,7 +50,7 @@ lstURL = [
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天デリバリー ラッキーくじ
-    "https://kuji.rakuten.co.jp/8d0388118f",
+    "https://kuji.rakuten.co.jp/2c93882103",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ビューティラッキーくじ（20201223）
@@ -74,7 +74,7 @@ lstURL = [
     #  【楽天カード】スマホここ掘れワンワン勝者限定くじ
     "https://kuji.rakuten.co.jp/2c5388f246",
     #  【楽天カード】スマホさかな勝者限定くじ
-    "https://kuji.rakuten.co.jp/4c93831eb9",
+    "https://kuji.rakuten.co.jp/62838922a0",
     #  【楽天カード】スマホじゃんけん勝者限定くじ
     "https://kuji.rakuten.co.jp/b312abddc5",
     #  【楽天カード】スマホじゃんけん勝者限定くじ
