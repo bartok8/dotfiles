@@ -32,7 +32,7 @@ lstURL = [
     #  ポイナビご愛顧感謝くじ
     "https://kuji.rakuten.co.jp/494387e1e2",
     #  マラソンスロット PC＆SP版
-    "https://kuji.rakuten.co.jp/53e3877333",
+    "https://kuji.rakuten.co.jp/ccc38789ec",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天Edyラッキーくじ
@@ -49,11 +49,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/6c238469a1",
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
-<<<<<<< HEAD
-=======
     #  楽天デリバリー ラッキーくじ
     "https://kuji.rakuten.co.jp/2c93882103",
->>>>>>> 6b7093240f4d59d36afb8a39f7a2537803350f87
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ビューティラッキーくじ（20201223）
