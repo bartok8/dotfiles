@@ -83,8 +83,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/33d38332c2",
-    #  マネ活ラッキーくじ
-    "https://kuji.rakuten.co.jp/e02387cd92",
     #  リワード特集ページ ラッキーくじ
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
