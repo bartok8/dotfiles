@@ -1,16 +1,14 @@
 lstURL = [
-    #  Infoseek ポイナビラッキーくじ
-    "https://kuji.rakuten.co.jp/9d91da42ab",
     #  InfoseekNewsラッキーくじ
     "https://kuji.rakuten.co.jp/889373540e",
     #  LINE限定 毎日引けるくじ
     "https://kuji.rakuten.co.jp/842378b442",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【2021年6月】特別ラッキーくじ（SK-II 公式ショップ楽天市場店 タイアップ版）
-    "https://kuji.rakuten.co.jp/3c9388e924",
     #  【お中元・夏ギフト特集2021】スロットを回して豪華景品を当てよう_PC版
     "https://kuji.rakuten.co.jp/6cd389482d",
+    #  【お中元・夏ギフト特集2021】スロットを回して豪華景品を当てよう_PC版
+    "https://kuji.rakuten.co.jp/0bd38a4def",
     #  【楽天toto】楽天totoラッキーくじ
     "https://kuji.rakuten.co.jp/bc23814a75",
     #  【楽天×宝くじ】最大1000ポイントが当たる！楽天×宝くじラッキーくじ
@@ -31,8 +29,8 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202106.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  ポイナビご愛顧感謝くじ
-    "https://kuji.rakuten.co.jp/494387e1e2",
+    #  マラソンスロット PC＆SP版
+    "https://kuji.rakuten.co.jp/0933889487",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天Edyラッキーくじ
@@ -53,8 +51,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/7e138837af",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
-    #  楽天ビューティラッキーくじ（20201223）
-    "https://kuji.rakuten.co.jp/81137ce423",
+    #  楽天ビューティラッキーくじ（20210628）
+    "https://kuji.rakuten.co.jp/602389bf09",
     #  楽天ブックス・ラッキーくじ
     "https://kuji.rakuten.co.jp/ffc1c52299",
     #  楽天ブログラッキーくじ
@@ -73,6 +71,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/6e7329f994",
     #  【お中元・夏ギフト特集2021】スロットを回して豪華景品を当てよう_スマホ版
     "https://kuji.rakuten.co.jp/84a3893b22",
+    #  【お中元・夏ギフト特集2021】スロットを回して豪華景品を当てよう_スマホ版
+    "https://kuji.rakuten.co.jp/c4e38a535b",
     #  【楽天カード】スマホここ掘れワンワン勝者限定くじ
     "https://kuji.rakuten.co.jp/2c5388f246",
     #  【楽天カード】スマホさかな勝者限定くじ
@@ -92,7 +92,7 @@ lstURL = [
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
     #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/ea0387b1d2",
+    "https://kuji.rakuten.co.jp/d663887f0f",
     #  楽天カーサービスアプリ ラッキーくじ
     "https://kuji.rakuten.co.jp/fd02be3448",
     #  楽天カードスマホラッキーくじ
