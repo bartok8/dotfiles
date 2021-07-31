@@ -31,8 +31,6 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202106.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  スタートボーナスチャンス限定くじ
-    "https://kuji.rakuten.co.jp/ae738a3323",
     #  ニュースラッキーくじ
     "https://kuji.rakuten.co.jp/c5337832c5",
     #  楽天Car車検 ラッキーくじ
@@ -95,8 +93,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
-    #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/d663887f0f",
     #  楽天カーサービスアプリ ラッキーくじ
     "https://kuji.rakuten.co.jp/fd02be3448",
     #  楽天カードスマホラッキーくじ
