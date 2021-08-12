@@ -39,8 +39,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/1b438bbd15",
     #  ニュースラッキーくじ
     "https://kuji.rakuten.co.jp/c5337832c5",
-    #  マラソンスロット PC＆SP版
-    "https://kuji.rakuten.co.jp/a6e38a9a21",
     #  楽天Car車検 ラッキーくじ
     "https://kuji.rakuten.co.jp/4e9371dd92",
     #  楽天Edyラッキーくじ
