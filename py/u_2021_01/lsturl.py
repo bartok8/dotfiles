@@ -9,6 +9,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/98e38e1fb8",
     #  【お歳暮＆冬ギフト特集2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/7f93908df9",
+    #  【クリスマス特集2021】楽天市場からのクリスマスプレゼント
+    "https://kuji.rakuten.co.jp/e90391d415",
     #  【季節のくらしフェア2021】スロットを回して豪華賞品を当てよう！
     "https://kuji.rakuten.co.jp/df638e9857",
     #  【楽天toto】楽天totoラッキーくじ
@@ -25,20 +27,18 @@ lstURL = [
     "https://kuji.rakuten.co.jp/71f38444b5",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
-    #  【楽天ポイント活動部】ラッキーくじ（2021年9月～11月通常版）
-    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202109.html",
+    #  【楽天ポイント活動部】ラッキーくじ（2021年11月～2月通常版）
+    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202112.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  スタート1000限定くじ_202111
-    "https://kuji.rakuten.co.jp/1a439037b7",
     #  ニュースラッキーくじ
     "https://kuji.rakuten.co.jp/c5337832c5",
     #  楽天Car車検 ラッキーくじ
-    "https://kuji.rakuten.co.jp/4e9371dd92",
+    "https://kuji.rakuten.co.jp/bb738f9ada",
     #  楽天Edyラッキーくじ
     "https://kuji.rakuten.co.jp/38c3861fdc",
     #  楽天×ぐるなび ラッキーくじ
-    "https://kuji.rakuten.co.jp/10a37ad0e0",
+    "https://kuji.rakuten.co.jp/056392e715",
     #  楽天カレンダーラッキーくじ
     "https://kuji.rakuten.co.jp/34e2cb79fa",
     #  楽天カレンダーラッキーくじ
@@ -67,8 +67,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/18584163d",
     #  楽天保険の総合窓口ラッキーくじ
     "https://kuji.rakuten.co.jp/14d330d3e0",
-    #  楽天市場のブラックフライデー　ダーツくじ
-    "https://kuji.rakuten.co.jp/c54390741e",
     #  楽天証券ラッキーカブくじ
     "https://kuji.rakuten.co.jp/6e7329f994",
     #  Rakuten Link限定ラッキースロット 第2弾
@@ -84,13 +82,13 @@ lstURL = [
     #  スマートフォン限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/33d38332c2",
     #  マネ活ラッキーくじ
-    "https://kuji.rakuten.co.jp/adf38f8f8b",
+    "https://kuji.rakuten.co.jp/72e391cf3f",
     #  リワード特集ページ ラッキーくじ
     "https://rakucoin.appspot.com/rakuten/kuji/redirect/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
     #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/e0b390d853",
+    "https://kuji.rakuten.co.jp/8793931b4a",
     #  楽天カードスマホラッキーくじ
     "https://kuji.rakuten.co.jp/1a638459e0",
     #  楽天リワード ラッキーくじ
