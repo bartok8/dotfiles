@@ -45,6 +45,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/9ea32a8dfa",
     #  楽天カードラッキーくじ
     "https://kuji.rakuten.co.jp/6c238469a1",
+    #  楽天スーパーSALE スロット＜第3弾＞PC＆SP版
+    "https://kuji.rakuten.co.jp/530391a6b3",
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天トラベル ラッキーくじ
