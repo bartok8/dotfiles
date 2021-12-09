@@ -1,4 +1,107 @@
+#! /bin/bash -x
+
+# FWnRnE3jD6L017HN \
+# WGdLSm3970SdKUT4 \
+# MR0NAfEKpDK0KNk9 \
+# CJ0hSMFMYSP82mtY \
+# CY8d7RKA0Je4V7dk \
+# JPdG2Y2J7rmEfPAn \
+# raPggNVJn71a7eGJ \
+# MFV7fHkHkDT6Cbbr \
+# akfKXh4hY304RrpR \
+# 4EahejT17e1kC3dU \
+# 5WCbY7ErVJkdSrT7 \
+# frmYm50EH452fMYd \
+# 4XDnn7KrdedGNRVG \
+# R2tMHCp2mm3FUDCF \
+# T1hTVW0NFGtE6090 \
+# XEKXj2KRhNTPFaRF \
+# mG6Nj3tnP3HhS4n8 \
+# J2d2nWa9RAtJ4R2m \
+# 5JG0phETa0MKDXSM \
+# H837Xht4D92kgRXY \
+# pnK4kRWWYW3Cbn23 \
+# hnPA3X27X1b2LS3E \
+# pX2CJ1C2e8EgRUJd \
+# 3XhT6CPrT0aUCfar \
+# n6CFW82FHVbbS2P1 \
+# XrbK7MfCSrVDAXfn \
+# Rr78YaX00j2GgDUG \
+# th6GLG4CSk4j6a06 \
+# tH17HrmkjSFnFTUY \
+# XAnmMG6pnPSNWgAn \
+# 4pHe311YR5GmPVSA \
+# FbeCHJRnmN26EYft \
+# SnPPG80kJtpfYmk8 \
+# EeDhU1L8GVtdhCMD \
+# 44E96hmR3U11REXR \
+# C8t39aN0N96dFXmE \
+# gm6DRhWFnEr24UJa \
+# e5ACKW2hJkbf49rd \
+# Vg592jmEYf7r0kpr \
+# tGfHpknYDN71708P \
+# 13PpUnSJ8SLFXYrY \
+# m6Spb5fJhfratKnL \
+
 python3 nanaco_transiter.py \
-https://www.fukuri.net/main/www/gift/login.jsp?jujuno=xxxxxxxxxx&cococd=xx
-da1Ddf2fffsd4589 fffsd4589da1Ddf2 \
-https://www.fukuri.net/main/www/gift/login.jsp?jujuno=yyyyyyyyyy&cococd=yy
+GdWhhPtLFktRm2EF \
+KJddRW9YEtjS1WMY \
+39S9gdGm7jFeGACW \
+FYt9VK70JCb22R21 \
+4eJMm4eT6JXUEdLt \
+g8F8TNRDV9NnH74G \
+EK9Ja3neCk5k48nS \
+WVhJm9U1kRdt6p8K \
+RkpKbt6311WWW5Kb \
+fNh6WH9hJbrg20Tk \
+aYk78nb1jraGjtLJ \
+LDgfJ9Y2N9dLATda \
+NpDh1p1Af9a62mE1 \
+5JrXE9g8Xa90TJf0 \
+fW451WVRPdUbfh1S \
+0fEAArN46p1LJJDE \
+jjAnV7GTMbSTfLfC \
+fEMmFnDkAm76MGF7 \
+fX0YKb7j6C3AMrme \
+82SrWthLnD2e869j \
+mj6US2KCa7KTJ7YH \
+S1eN0tgNLStTN5Pk \
+gX4tN1eWaRA29LAf \
+pVD9fDVY2YCd58nA \
+DMTeLF0D9MrbY233 \
+2DRtHJ16U2ddEdmh \
+Cnhd23Nhjge7PbFj \
+rNSdhRS42J36gj7D \
+LCm4rWAbVR2VHnX1 \
+eHd08rS92mEbPCg0 \
+nMS6AHTU6K4Cbr7j \
+3KYdVmXXRrgfmL3A \
+rT4CFGhfXLE8SheD \
+Abf82eN357aYmmSh \
+FAt4L6YPUkt0Krdg \
+Sb2mW6EF66d4NXDC \
+me6NAgtKA3kMKj4M \
+9E454MdCC5YJGKDg \
+nLEUp16mEffh6WJ9 \
+7hF2JmE3Pfhn1XRX \
+dm0UkUHnjjr2VjtK \
+7hpgXUh2GA0RTEKM \
+WAPkpf3tgA6njDU8 \
+96b3kfGCgghK7hN2 \
+F4h35RWKhrbXLJSJ \
+152eUadCDVN6N9N8 \
+393h8KaEkhg7Pn1d \
+mEUdUUS7C7LjdTGg \
+8Lh1ftTLkGd0pCt1 \
+XWrLCF20JYADF5ma \
+VGVmXmj9Af3dPdGS \
+X3WNtHmLDNg3Yk1U \
+K0GmAK8emf6gCW3r \
+2PSg9PK67mGp4XDm \
+ReMgbPY8t1AeAEdY \
+31YCbEXaU19j0k9D \
+YhR42MhAmt086C7F \
+tFEp494S9bEkm7tG \
+
+# ends here.
+		

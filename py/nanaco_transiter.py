@@ -6,7 +6,9 @@ import re
 from sys import argv
 import selenium
 from selenium import webdriver
-import chromedriver_binary
+from selenium.common.exceptions import NoSuchElementException
+#import chromedriver_binary
+from webdriver_manager.chrome import ChromeDriverManager
 
 ##userName = "" # <- 購入した福利厚生倶楽部のIDを6桁と4桁で入力してください(例: 012345-6789)
 ##nanacoNo = "" # <- nanaco番号16桁を入力してください(例: 0123456789012345)
@@ -45,7 +47,8 @@ def loginNanaco(driver):
 
 # セッション内でギフトコードを登録する
 def registGiftCode(driver, code, continueCount = 0):
-    driver.find_element_by_xpath("//input[@alt=\"ご利用約款に同意の上、登録\"]").click() # ここで新規ウィンドウが開く
+#    driver.find_element_by_xpath("//input[@alt=\"ご利用約款に同意の上、登録\"]").click() # ここで新規ウィンドウが開く
+    driver.find_element_by_xpath("//input[@src=\"/member/image/gift100/btn_400.gif\"]").click() # ここで新規ウィンドウが開く
     time.sleep(1)
     driver.switch_to.window(driver.window_handles[1]) # 直前に開いた新規ウィンドウをカレントにする
 
@@ -97,7 +100,8 @@ def checkEnviroment(arg):
 if __name__ == "__main__":
     urlsOrGiftCodes = checkEnviroment(argv)
     print("Preparing...")
-    driver = selenium.webdriver.Chrome()
+#    driver = selenium.webdriver.Chrome()
+    driver = webdriver.Chrome(ChromeDriverManager().install())
     driver.set_page_load_timeout(30)
     print("Getting gift codes ...")
     giftCodes = []
