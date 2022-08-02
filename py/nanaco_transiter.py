@@ -20,8 +20,12 @@ userName = "547533-2115"
 # securityCode = "4912995"
 
 # R2
-nanacoNo = "7600003722132431"
-securityCode = "2213299"
+# nanacoNo = "7600003722132431"
+# securityCode = "2213299"
+
+# R3
+nanacoNo = "7600005402115636"
+securityCode = "0211285"
 
 def getGiftCodes(driver, url):
     driver.get(url.strip())

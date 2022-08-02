@@ -2,33 +2,21 @@ lstURL = [
     #  InfoseekNewsラッキーくじ
     "https://kuji.rakuten.co.jp/889373540e",
     #  LINE限定 毎日引けるくじ
-    "https://kuji.rakuten.co.jp/842378b442",
+    "https://rakucoin.appspot.com/rakuten/kuji/redirect/0113a059b5",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【おせち特集2022】スロットを回して豪華賞品を当てよう！
-    "https://kuji.rakuten.co.jp/98e38e1fb8",
-    #  【お歳暮＆冬ギフト特集2021】スロットを回して豪華賞品を当てよう！
-    "https://kuji.rakuten.co.jp/7f93908df9",
-    #  【クリスマス特集2021】楽天市場からのクリスマスプレゼント
-    "https://kuji.rakuten.co.jp/e90391d415",
-    #  【季節のくらしフェア2021】スロットを回して豪華賞品を当てよう！
-    "https://kuji.rakuten.co.jp/df638e9857",
-    #  【楽天toto】楽天totoラッキーくじ
-    "https://kuji.rakuten.co.jp/bc23814a75",
-    #  【楽天×宝くじ】最大1000ポイントが当たる！楽天×宝くじラッキーくじ
-    "https://kuji.rakuten.co.jp/8c538152dd",
-    #  【楽天くじ広場】ラッキーくじ
-    "https://kuji.rakuten.co.jp/4263816d7f",
-    #  【楽天カード】ここ掘れワンワン勝者限定くじ
-    "https://kuji.rakuten.co.jp/ccb388db59",
-    #  【楽天カード】さかな勝者限定くじ
-    "https://kuji.rakuten.co.jp/62338915a0",
-    #  【楽天カード】じゃんけん勝者限定くじ
-    "https://kuji.rakuten.co.jp/71f38444b5",
+    #  【お中元・夏ギフト特集2022】スロットを回して豪華賞品を当てよう！
+    "https://kuji.rakuten.co.jp/24c3a18ea3",
+    #  【くじ広場】最大1000ポイントが当たる！ラッキーくじ
+    "https://kuji.rakuten.co.jp/cd939a378e",
+    #  【楽天toto】最大1000ポイントが当たる！ラッキーくじ
+    "https://kuji.rakuten.co.jp/9963974297",
+    #  【楽天×宝くじ】最大1000ポイントが当たる！ラッキーくじ
+    "https://kuji.rakuten.co.jp/71d397593b",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
-    #  【楽天ポイント活動部】ラッキーくじ（2021年11月～2月通常版）
-    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202112.html",
+    #  【楽天ポイント活動部】ラッキーくじ（2022年6月～8月通常版）
+    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202206.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  ニュースラッキーくじ
@@ -43,16 +31,12 @@ lstURL = [
     "https://kuji.rakuten.co.jp/34e2cb79fa",
     #  楽天カレンダーラッキーくじ
     "https://kuji.rakuten.co.jp/9ea32a8dfa",
-    #  楽天カードラッキーくじ
-    "https://kuji.rakuten.co.jp/6c238469a1",
-    #  楽天スーパーSALE スロット＜第3弾＞PC＆SP版
-    "https://kuji.rakuten.co.jp/530391a6b3",
     #  楽天ツールバーラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
-    #  楽天ビューティラッキーくじ（20210628）
-    "https://kuji.rakuten.co.jp/602389bf09",
+    #  楽天ビューティラッキーくじ（20220627）
+    "https://kuji.rakuten.co.jp/94439f0205",
     #  楽天ブックス・ラッキーくじ
     "https://kuji.rakuten.co.jp/ffc1c52299",
     #  楽天ブログラッキーくじ
@@ -71,37 +55,29 @@ lstURL = [
     "https://kuji.rakuten.co.jp/14d330d3e0",
     #  楽天証券ラッキーカブくじ
     "https://kuji.rakuten.co.jp/6e7329f994",
-    #  Rakuten Link限定ラッキースロット 第2弾
-    "https://kuji.rakuten.co.jp/4a138e5ebc",
-    #  【楽天カード】スマホここ掘れワンワン勝者限定くじ
-    "https://kuji.rakuten.co.jp/2c5388f246",
-    #  【楽天カード】スマホさかな勝者限定くじ
-    "https://kuji.rakuten.co.jp/62838922a0",
-    #  【楽天カード】スマホじゃんけん勝者限定くじ
-    "https://kuji.rakuten.co.jp/3113843d93",
+    #  Rakuten Link限定ラッキースロット 第7弾
+    "https://kuji.rakuten.co.jp/bff3a22bd0",
     #  アプリ限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/33d38332c2",
     #  マネ活ラッキーくじ
-    "https://kuji.rakuten.co.jp/72e391cf3f",
+    "https://kuji.rakuten.co.jp/26d3a1367e",
     #  リワード特集ページ ラッキーくじ
     "https://rakucoin.appspot.com/rakuten/kuji/redirect/fc437af2c7",
     #  楽天Edyラッキーくじ
     "https://r10.to/hf7Y7J",
-    #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/8793931b4a",
-    #  楽天カードスマホラッキーくじ
-    "https://kuji.rakuten.co.jp/1a638459e0",
+    #  楽天PointClub SPWebラッキーくじ
+    "https://kuji.rakuten.co.jp/0013a30d48",
+    #  楽天ペイアプリ ラッキーくじ
+    "https://kuji.rakuten.co.jp/9763988951",
     #  楽天リワード ラッキーくじ
     "https://rakucoin.appspot.com/rakuten/kuji/redirect/e7a37ae390",
-    #  楽天リワード ラッキーくじ
-    "https://rakucoin.appspot.com/rakuten/kuji/redirect/64538e65f2",
     #  毎日ラッキーくじ
     "https://kuji.rakuten.co.jp/27436a510a",
     #  楽天PointClubアプリラッキーくじ
     "https://point.rakuten.co.jp/doc/lottery/lucky/",
-    #  楽天ポイントモール DAILY CHANCEくじ
-    "https://pointmall.rakuten.co.jp/",
+    #  楽天ポイントモール モールガチャ
+    "https://pointmall.rakuten.co.jp/gacha",
 ]
 
