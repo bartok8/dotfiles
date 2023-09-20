@@ -6,6 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 #import chromedriver_binary
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
 from rakuten_credentials import *
 from u_2021_01.lsturl import *
 
@@ -15,7 +16,8 @@ def openRakutenLuckyKuji(pDriver, pURL):
     try:
         pDriver.get(pURL) # 楽天くじURLを開く
         time.sleep(5)
-        pDriver.find_element_by_xpath("//*[@id='entry']").click() # Startボタン
+        #pDriver.find_element_by_xpath("//*[@id='entry']").click() # Startボタン
+        pDriver.find_element(By.XPATH, "//*[@id='entry']").click() # Startボタン
         time.sleep(20) # ルーレットくじの待ち時間
     except NoSuchElementException:
         print("At {}".format(pURL))
@@ -27,7 +29,8 @@ def openRakutenLuckyKuji2(pDriver, pURL):
     try:
         pDriver.get(pURL) # 楽天くじURLを開く
         time.sleep(5)
-        element = pDriver.find_element_by_xpath("//*[@id='entry']")
+        #element = pDriver.find_element_by_xpath("//*[@id='entry']")
+        element = pDriver.find_element(By.XPATH, "//*[@id='entry']")
         action = webdriver.common.action_chains.ActionChains(driver)
         action.move_to_element_with_offset(element, 5, 5)
         action.click()
@@ -45,8 +48,8 @@ def openRakutenLuckyKuji2(pDriver, pURL):
 #webdriverpath = "/Chrome webdriverへのパス/" # Webdriver Path
 options =  webdriver.ChromeOptions()
 #driver = webdriver.Chrome(webdriverpath)
-#driver = webdriver.Chrome()
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome()
+#driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.set_window_size(1300,1040)
 
 lstURLenavi = [
@@ -63,13 +66,16 @@ driver.get(url)
 time.sleep(5)
 
 # 楽天にログイン
-elem_search_word = driver.find_element_by_id("loginInner_u")
+#elem_search_word = driver.find_element_by_id("loginInner_u")
+elem_search_word = driver.find_element(By.ID, "loginInner_u")
 #elem_search_word.send_keys("bartok8@gmail.com") # USER ID
 elem_search_word.send_keys(ID) # USER ID
-elem_search_word = driver.find_element_by_id("loginInner_p")
+#elem_search_word = driver.find_element_by_id("loginInner_p")
+elem_search_word = driver.find_element(By.ID, "loginInner_p")
 #elem_search_word.send_keys("10823695") # USER PASSWORD
 elem_search_word.send_keys(PASS) # USER PASSWORD
-driver.find_element_by_css_selector('input[type="submit"]').click()
+#driver.find_element_by_css_selector('input[type="submit"]').click()
+driver.find_element(By.CSS_SELECTOR, 'input[type="submit"]').click()
 time.sleep(10)
 
 # 楽天ラッキーくじのURLリストを開く
@@ -88,13 +94,16 @@ time.sleep(5)
 #password = "10823695"
 
 # ログイン画面のユーザー欄にユーザIDを入力
-driver.find_element_by_name('u').send_keys(ID)
+#driver.find_element_by_name('u').send_keys(ID)
+driver.find_element(By.NAME, 'u').send_keys(ID)
 
 # ログイン画面のパスワード欄にパスワードを入力
-driver.find_element_by_name('p').send_keys(PASS)
+#driver.find_element_by_name('p').send_keys(PASS)
+driver.find_element(By.NAME, 'p').send_keys(PASS)
 
 # ログインボタンを押下する
-driver.find_element_by_id('loginButton').click()
+#driver.find_element_by_id('loginButton').click()
+driver.find_element(By.ID, 'loginButton').click()
 
 time.sleep(10)
 
