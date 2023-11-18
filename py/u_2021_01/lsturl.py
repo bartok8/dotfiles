@@ -58,8 +58,6 @@ lstURL = [
     "https://kuji.rakuten.co.jp/fcd3c2bf21",
     #  ＜楽天ブックス＞ラッキーくじ
     "https://kuji.rakuten.co.jp/ef23be45f7",
-    #  【Super Point Screen】お買いものパンダ10周年記念限定ランチボックスが当たるキャンペーン
-    "https://kuji.rakuten.co.jp/24e3c1cedc",
     #  アプリ限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ
