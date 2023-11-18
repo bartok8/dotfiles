@@ -23,10 +23,10 @@ lstURL = [
     "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202309.html",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
-    #  お買いものパンダぬいぐるみキャッチャー
-    "https://kuji.rakuten.co.jp/a223c09d5c",
     #  ニュースラッキーくじ
     "https://kuji.rakuten.co.jp/c5337832c5",
+    #  ブラックフライデーダーツ＜事前告知版＞PC＆SP版
+    "https://kuji.rakuten.co.jp/38a3c24830",
     #  楽天Edyラッキーくじ
     "https://kuji.rakuten.co.jp/38c3861fdc",
     #  楽天×ぐるなび ラッキーくじ
@@ -58,8 +58,8 @@ lstURL = [
     "https://kuji.rakuten.co.jp/fcd3c2bf21",
     #  ＜楽天ブックス＞ラッキーくじ
     "https://kuji.rakuten.co.jp/ef23be45f7",
-    #  【Super Point Screen】サーティワンで使えるデジタルギフト抽選で310名様にプレゼント！
-    "https://kuji.rakuten.co.jp/01e3bfa8df",
+    #  【Super Point Screen】お買いものパンダ10周年記念限定ランチボックスが当たるキャンペーン
+    "https://kuji.rakuten.co.jp/24e3c1cedc",
     #  アプリ限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ
