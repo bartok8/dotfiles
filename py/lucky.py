@@ -3,15 +3,16 @@
 
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+
 import time
 #import chromedriver_binary
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from rakuten_credentials import *
 from u_2021_01.lsturl import *
-
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 # 指定URLの楽天くじを引く関数 [楽天パンダのルーレットバージョンのみ対応]
 def openRakutenLuckyKuji(pDriver, pURL):
@@ -194,12 +195,13 @@ def traverse_rakuten_enavi(driver):
 #
 if __name__ == "__main__":
     # open chrome
-    options =  webdriver.ChromeOptions()
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument('--lang=ja')    
+    driver = webdriver.Chrome(options=options)
     driver.set_window_size(1300,1040)
 
     traverse_rakuten(driver)
-    traverse_rakuten_enavi(driver)
+#    traverse_rakuten_enavi(driver)
     
     # 処理終了
     driver.close

@@ -38,6 +38,7 @@ lstURL = [
     #  楽天トラベル ラッキーくじ
     "https://kuji.rakuten.co.jp/1243541a35",
     #  楽天ブログラッキーくじ
+    "https://kuji.rakuten.co.jp/c8437c01c5",
     #  楽天ペイ (オンライン決済)ラッキーくじ
     "https://kuji.rakuten.co.jp/7393386d27",
     #  楽天ラクマのラッキーくじ
