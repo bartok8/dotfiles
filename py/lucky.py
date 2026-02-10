@@ -80,6 +80,7 @@ time.sleep(10)
 
 # 楽天ラッキーくじのURLリストを開く
 for itemURL in lstURL:
+    print("At {} ...".format(itemURL))
 #    openRakutenLuckyKuji(driver, itemURL)
     openRakutenLuckyKuji2(driver, itemURL)
 
@@ -108,6 +109,7 @@ driver.find_element(By.ID, 'loginButton').click()
 time.sleep(10)
 
 for itemURL in lstURLenavi:
+    print("At enavi {} ...".format(itemURL))    
     openRakutenLuckyKuji2(driver, itemURL)
 
 

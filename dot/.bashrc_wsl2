@@ -128,4 +128,12 @@ if [ -z "$DISPLAY" ]; then
     fi
 fi
 
+export DISPLAY=:0.0
+
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+
 # ends here.

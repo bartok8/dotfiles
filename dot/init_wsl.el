@@ -83,9 +83,11 @@
 ;; フォントサイズ リセット
 (global-set-key (kbd "M-0") '(lambda() (interactive) (text-scale-set 0)))
 
+(set-face-attribute 'default nil :height 170)
+
 (setq default-frame-alist
       (append '((width                . 110)  ; フレーム幅
-                (height               . 65 ) ; フレーム高
+                (height               . 50 ) ; フレーム高
              ;; (left                 . 70 ) ; 配置左位置
              ;; (top                  . 28 ) ; 配置上位置
                 (line-spacing         . 0  ) ; 文字間隔
@@ -153,9 +155,19 @@
 ;; nlinum
 ;; バッファの左側に行番号を表示する
 ;;;(global-nlinum-mode t)
-(global-linum-mode t)
+;;;(global-linum-mode t)
 ;; 5 桁分の表示領域を確保する
-(setq nlinum-format "%5d ")
+;;;(setq nlinum-format "%5d ")
+
+;; 設定ファイルで有効化
+(global-display-line-numbers-mode 1)  // グローバル
+(add-hook 'prog-mode-hook 'display-line-numbers-mode)  // プログラミングモードのみ
+;; 絶対行番号（デフォルト）
+(setq display-line-numbers-type t)
+;; 相対行番号
+(setq display-line-numbers-type 'relative)
+;; 視覚的な行番号（折り畳みやラップを考慮）
+(setq display-line-numbers-type 'visual)
 
 ;;; ends here.
 (custom-set-variables
