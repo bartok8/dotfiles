@@ -68,10 +68,12 @@ lstURL = [
     "https://rakucoin.appspot.com/rakuten/kuji/redirect/55b4281241",
     #  【Super Point Screen】毎日開催！ラッキーくじ（検索＆ニュース画面）
     "https://kuji.rakuten.co.jp/bdb428d7f8",
+    #  【Super Point Screen主催】お買いものパンダのワイヤレス充電器が当たるキャンペーン
+    "https://kuji.rakuten.co.jp/d21428379e",
     #  【おすすめチラシ】毎日当たる！ラッキーくじ（flyer page）
     "https://kuji.rakuten.co.jp/b52422f8ab",
-    #  【楽天モバイル超楽天祭スペシャルオファー第1弾】デジタルギフトや楽天ポイントが抽選で当たる！さらにダブルチャンスも！
-    "https://kuji.rakuten.co.jp/44942a7433",
+    #  【楽天モバイル超楽天祭スペシャルオファー第2弾】デジタルギフトや楽天ポイントが抽選で当たる！さらにダブルチャンスも！
+    "https://kuji.rakuten.co.jp/cc342c5a71",
     #  アプリ限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ

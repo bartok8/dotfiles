@@ -130,6 +130,8 @@ fi
 
 export DISPLAY=:0.0
 
+stty werase undef
+bind '"\C-w": backward-kill-word'
 
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
