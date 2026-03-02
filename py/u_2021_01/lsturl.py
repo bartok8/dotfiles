@@ -3,30 +3,30 @@ lstURL = [
     "https://kuji.rakuten.co.jp/889373540e",
     #  Rakuten TV ラッキーくじ
     "https://kuji.rakuten.co.jp/46211bf9dd",
-    #  【バレンタイン特集2026】スロットを回して豪華賞品を当てよう！
-    "https://kuji.rakuten.co.jp/f734269b4a",
+    #  【ホワイトデー特集2026】スロットを回して豪華賞品を当てよう！
+    "https://kuji.rakuten.co.jp/0e343029f0",
     #  【常時開催】毎日チャンス！その場で最大1000ポイント当たる！ラッキーくじ
-    "https://kuji.rakuten.co.jp/995425a6a9",
+    "https://kuji.rakuten.co.jp/6e64338a08",
     #  【楽天ブックス】facebookラッキーくじ
     "https://kuji.rakuten.co.jp/42136c5d7d",
-    #  【楽天ポイント活動部】ラッキーくじ（2025年12月～2026年2月通常版）
-    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202512.html",
-    #  【楽天マガジン】【ラッキーくじ】1日1回最大1000ポイントゲットのチャンス（2026/1/20∼2026/2/20）
-    "https://kuji.rakuten.co.jp/035427f8cb",
+    #  【楽天ポイント活動部】ラッキーくじ（2026年3月～2026年5月通常版）
+    "https://app.kuji.rakuten.co.jp/campaign/poikatu/kuji/kuji202603.html",
+    #  【楽天マガジン】【ラッキーくじ】1日1回最大1000ポイントゲットのチャンス（2026/2/20∼2026/3/19）
+    "https://kuji.rakuten.co.jp/dcd42fac62",
     #  【楽天レシピ】ラッキーくじ
     "https://kuji.rakuten.co.jp/26d37b04b2",
     #  お買いものパンダ占いラッキーくじ
     "https://kuji.rakuten.co.jp/1e842a2ecd",
-    #  わくわくクーポンくじ【2026/02/09-2026/02/16】
-    "https://kuji.rakuten.co.jp/5054292e1a",
+    #  わくわくクーポンくじ【2026/03/02-2026/03/09】
+    "https://kuji.rakuten.co.jp/0584322ae1",
     #  ニュースラッキーくじ
     "https://kuji.rakuten.co.jp/c5337832c5",
     #  楽天Edyラッキーくじ
     "https://kuji.rakuten.co.jp/38c3861fdc",
-    #  楽天Koboラッキーくじ_20260201
-    "https://kuji.rakuten.co.jp/85b4284d7d",
+    #  楽天Koboラッキーくじ_20260301
+    "https://kuji.rakuten.co.jp/5cb4316431",
     #  楽天ぐるなび ラッキーくじ
-    "https://kuji.rakuten.co.jp/6f74185959",
+    "https://kuji.rakuten.co.jp/89b428f9e6",
     #  楽天ウェブ検索 ラッキーくじ
     "https://kuji.rakuten.co.jp/4351057845",
     #  楽天カレンダーラッキーくじ
@@ -46,11 +46,11 @@ lstURL = [
     #  楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/f3a3832d0c",
     #  楽天リーベイツのくじ
-    "https://kuji.rakuten.co.jp/1864279f37",
+    "https://kuji.rakuten.co.jp/d4442f4375",
     #  楽天リーベイツのガチャガチャゲーム
-    "https://kuji.rakuten.co.jp/ddd427aab0",
+    "https://kuji.rakuten.co.jp/7ae42ff4e5",
     #  楽天リーベイツのスロットゲーム
-    "https://kuji.rakuten.co.jp/312427b081",
+    "https://kuji.rakuten.co.jp/2394300b04",
     #  楽天不動産ラッキーくじ
     "https://kuji.rakuten.co.jp/18584163d",
     #  楽天保険の総合窓口ラッキーくじ
@@ -68,12 +68,8 @@ lstURL = [
     "https://rakucoin.appspot.com/rakuten/kuji/redirect/55b4281241",
     #  【Super Point Screen】毎日開催！ラッキーくじ（検索＆ニュース画面）
     "https://kuji.rakuten.co.jp/bdb428d7f8",
-    #  【Super Point Screen主催】お買いものパンダのワイヤレス充電器が当たるキャンペーン
-    "https://kuji.rakuten.co.jp/d21428379e",
     #  【おすすめチラシ】毎日当たる！ラッキーくじ（flyer page）
     "https://kuji.rakuten.co.jp/b52422f8ab",
-    #  【楽天モバイル超楽天祭スペシャルオファー第2弾】デジタルギフトや楽天ポイントが抽選で当たる！さらにダブルチャンスも！
-    "https://kuji.rakuten.co.jp/cc342c5a71",
     #  アプリ限定 楽天ラッキーくじ
     "https://kuji.rakuten.co.jp/9f23834c4c",
     #  スマートフォン限定 楽天ラッキーくじ
@@ -81,7 +77,7 @@ lstURL = [
     #  リワード特集ページ ラッキーくじ
     "https://rakucoin.appspot.com/rakuten/kuji/redirect/fc437af2c7",
     #  楽天PointClubSPWebラッキーくじ
-    "https://kuji.rakuten.co.jp/0444285514",
+    "https://kuji.rakuten.co.jp/8ae430b064",
     #  楽天ペイアプリ ラッキーくじ
     "https://kuji.rakuten.co.jp/e5741cf5af",
     #  楽天リワード ラッキーくじ

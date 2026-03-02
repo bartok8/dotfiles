@@ -1,0 +1,2 @@
+# UNCONFIGURED FSTAB FOR BASE SYSTEM
+X: /mnt/x drvfs defaults,metadata,uid=1000,gid=1000 0 0
