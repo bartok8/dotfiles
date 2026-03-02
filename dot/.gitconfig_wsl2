@@ -1,0 +1,5 @@
+[user]
+	email = bartok8@gmail.com\n
+	name = bartok8@gmail.com\n
+[diff "word"]
+	textconv = pandoc --to=plain

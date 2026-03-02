@@ -139,6 +139,21 @@ eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
 
 
-alias msword='"/mnt/c/Program Files/Microsoft Office/root/Office16/WINWORD.EXE"'
+#alias msword='"/mnt/c/Program Files/Microsoft Office/root/Office16/WINWORD.EXE"'
+# 1. 人間がWordを起動するための設定（エイリアス/関数）
+msword() {
+    local EXE="/mnt/c/Program Files/Microsoft Office/root/Office16/WINWORD.EXE"
+    if [ -z "$1" ]; then
+        "$EXE" &
+    else
+        # ファイルがある場合はWindowsパスに変換
+        local WIN_PATH=$(wslpath -w "$1")
+        "$EXE" "$WIN_PATH" &
+    fi
+}
+
+# 2. Gitの差分表示用（これはコマンド名とは独立）
+# すでに実行済みなら不要ですが、念のため
+# git config --global diff.word.textconv "pandoc --to=plain"
 
 # ends here.
