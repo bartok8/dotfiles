@@ -156,4 +156,22 @@ msword() {
 # すでに実行済みなら不要ですが、念のため
 # git config --global diff.word.textconv "pandoc --to=plain"
 
+acroread() {
+    # 代表的なパス（環境に合わせて1つ選ぶか、以下の優先順位で探す設定）
+    local EXE="/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/Acrobat.exe"
+    
+    # もし上記になければ（32bit版やReader専用版などの場合）ここを試す
+    if [ ! -f "$EXE" ]; then
+        EXE="/mnt/c/Program Files (x86)/Adobe/Acrobat Reader DC/Reader/AcroRd32.exe"
+    fi
+
+    if [ -z "$1" ]; then
+        "$EXE" &
+    else
+        # WSLパスをWindowsパスに変換して開く
+        local WIN_PATH=$(wslpath -w "$1")
+        "$EXE" "$WIN_PATH" &
+    fi
+}
+
 # ends here.
