@@ -6,6 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.action_chains import ActionChains
 
 import time
 #import chromedriver_binary
@@ -33,7 +34,8 @@ def openRakutenLuckyKuji2(pDriver, pURL):
         time.sleep(5)
         #element = pDriver.find_element_by_xpath("//*[@id='entry']")
         element = pDriver.find_element(By.XPATH, "//*[@id='entry']")
-        action = webdriver.common.action_chains.ActionChains(driver)
+        #action = webdriver.common.action_chains.ActionChains(driver)
+        action = ActionChains(driver)
         action.move_to_element_with_offset(element, 5, 5)
         action.click()
         action.perform()
