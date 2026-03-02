@@ -138,4 +138,7 @@ export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
 
+
+alias msword='"/mnt/c/Program Files/Microsoft Office/root/Office16/WINWORD.EXE"'
+
 # ends here.
