@@ -174,4 +174,38 @@ acroread() {
     fi
 }
 
+# Antigravity起動用関数
+agy() {
+    # Windowsユーザー名を、エラーを捨てつつ安全に取得
+    local WIN_USER=$(cmd.exe /c "echo %USERNAME%" 2>/dev/null | tr -d '\r')
+    local AGY_PATH="/mnt/c/Users/${WIN_USER}/AppData/Local/Programs/Antigravity/bin/antigravity"
+
+    if [ $# -eq 0 ]; then
+        "$AGY_PATH"
+    else
+        # WSL形式の絶対パスを生成
+        local TARGET_PATH=$(realpath "$1")
+        # AntigravityをWSLリモートモードで起動
+        "$AGY_PATH" --folder-uri "vscode-remote://wsl+Ubuntu${TARGET_PATH}"
+    fi
+}
+
+# Meryを起動する関数
+mery() {
+    # Mery.exe の Windows パスを指定
+    # ※ インストール先が異なる場合はここを書き換えてください
+    local WIN_USER=$(cmd.exe /c "echo %USERNAME%" 2>/dev/null | tr -d '\r')
+    local MERY_PATH="/mnt/c/Users/${WIN_USER}/AppData/Local/Programs/Mery/Mery.exe"
+
+    if [ $# -eq 0 ]; then
+        # 引数がない場合は単体で起動
+        "$MERY_PATH" &
+    else
+        # 引数がある場合は、パスを Windows 形式に変換して渡す
+        # -a は絶対パスへの変換、-w は Windows 形式への変換
+        local WIN_PATH=$(wslpath -w "$1")
+        "$MERY_PATH" "$WIN_PATH" &
+    fi
+}
+
 # ends here.
